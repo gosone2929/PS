@@ -9,9 +9,9 @@ int maxProduct(vector<int>& nums) {
     for (int index = 1; index < nums.size() ; index += 1) {
         int currentValue = nums[index];
         auto prev = dp[index - 1];
-        auto minMaxValue = minmax({prev[0] * currentValue, prev[1] * currentValue, prev[2] * currentValue});
-        auto nextValue = minMaxValue.second;
-        auto thirdValue = minMaxValue.first;
+        auto [minValue, maxValue] = minmax({prev[0] * currentValue, prev[1] * currentValue, prev[2] * currentValue});
+        auto nextValue = minValue;
+        auto thirdValue = maxValue;
         dp.push_back({currentValue, nextValue, thirdValue});
     }
     int answer = nums[0];
