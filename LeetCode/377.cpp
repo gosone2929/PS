@@ -30,17 +30,15 @@ public:
         return ans;
     }
     int combinationSum4(vector<int>& nums, int const target) {
-        vector<int> dp = vector(target + 1, 0);
+        vector<long long> dp = vector<long long>(target + 1, 0);
         vector<int> tn = {};
         for (auto num: nums) {
             if (num <= target) {
                 tn.push_back(num);
             }
         }
+        dp[0] = 1;
         nums = vector(tn);
-        for (auto num: nums) {
-            dp[num] += 1;
-        }
         
         sort(nums.begin(), nums.end());
         for (int cur = 1; cur <= target; cur += 1) {
@@ -48,10 +46,13 @@ public:
                 if (cur < num) {
                     continue;
                 }
-                dp[cur] += dp[cur - num];
+                if (dp[cur] > LLONG_MAX - dp[cur - num]) {
+                   dp[cur] = LLONG_MAX;
+                } else {
+                    dp[cur] += dp[cur - num];
+                }
             }
         }
-        for(auto v: dp) cout << v << " ";
 
         return dp[target];
     }
