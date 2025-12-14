@@ -5,7 +5,7 @@ using namespace std;
 int maxProduct(vector<int>& nums) {
     vector<vector<int>> dp = {};
     dp.push_back({nums[0], nums[0], nums[0]});
-
+    // memo of the miniest and heighst number 
     for (int index = 1; index < nums.size() ; index += 1) {
         int currentValue = nums[index];
         auto prev = dp[index - 1];

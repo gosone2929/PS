@@ -5,16 +5,26 @@ Good luck and Happy New Year!
 
 Array
 
-- Two Sum - https://leetcode.com/problems/two-sum/
+- Two Sum - https://leetcode.com/problems/two-sum/ 
+  - ✅ [Code](./001.cpp)
 - Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+  - ✅ [Code](./121.cpp)
 - Contains Duplicate - https://leetcode.com/problems/contains-duplicate/
+  - ✅ [Code](./217.cpp)
 - Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/
+  - ✅ [Code](./238.cpp)
 - Maximum Subarray - https://leetcode.com/problems/maximum-subarray/
+  - ✅ [Code](./53.cpp)
 - Maximum Product Subarray - https://leetcode.com/problems/maximum-product-subarray/
+  - ✅ [Code](./152.cpp)
 - Find Minimum in Rotated Sorted Array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+  - ✅ [Code](./153.cpp)
 - Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/
+  - ✅ [Code](./33.cpp)
 - 3Sum - https://leetcode.com/problems/3sum/
+  - ✅ [Code](./15.cpp)
 - Container With Most Water - https://leetcode.com/problems/container-with-most-water/
+  - ✅ [Code](./11.cpp)
 
 ---
 
@@ -31,15 +41,25 @@ Binary
 Dynamic Programming
 
 - Climbing Stairs - https://leetcode.com/problems/climbing-stairs/
+  - ✅ [Code](./70.cpp)
 - Coin Change - https://leetcode.com/problems/coin-change/
+  - ✅ [Code](./322.cpp)
 - Longest Increasing Subsequence - https://leetcode.com/problems/longest-increasing-subsequence/
+  - ✅ [Code](./300.cpp)
 - Longest Common Subsequence - https://leetcode.com/problems/longest-common-subsequence/description/
+  - ✅ [Code](./1143.cpp)
 - Word Break Problem - https://leetcode.com/problems/word-break/
+  - ✅ [Code](./139.cpp)
 - Combination Sum - https://leetcode.com/problems/combination-sum-iv/
+  - ✅ [Code](./377.cpp)
 - House Robber - https://leetcode.com/problems/house-robber/
+  - ✅ [Code](./198.cpp)
 - House Robber II - https://leetcode.com/problems/house-robber-ii/
+  - ✅ [Code](./213.cpp)
 - Decode Ways - https://leetcode.com/problems/decode-ways/
+  - ✅ [Code](./91.cpp)
 - Unique Paths - https://leetcode.com/problems/unique-paths/
+
 - Jump Game - https://leetcode.com/problems/jump-game/
 
 ---
