@@ -115,8 +115,11 @@ String
 - Longest Repeating Character Replacement - https://leetcode.com/problems/longest-repeating-character-replacement/
   - ✅ [Code](./424.cpp)
 - Minimum Window Substring - https://leetcode.com/problems/minimum-window-substring/
+  - ✅ [Code](./76.cpp)
 - Valid Anagram - https://leetcode.com/problems/valid-anagram/
+  - ✅ [Code](./242.cpp)
 - Group Anagrams - https://leetcode.com/problems/group-anagrams/
+
 - Valid Parentheses - https://leetcode.com/problems/valid-parentheses/
 - Valid Palindrome - https://leetcode.com/problems/valid-palindrome/
 - Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/
