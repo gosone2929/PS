@@ -121,8 +121,9 @@ String
 - Group Anagrams - https://leetcode.com/problems/group-anagrams/
   - ✅ [Code](./49.cpp)
 - Valid Parentheses - https://leetcode.com/problems/valid-parentheses/
-  - 
+  - ✅ [Code](./020.cpp)
 - Valid Palindrome - https://leetcode.com/problems/valid-palindrome/
+  - ✅ [Code](./125.cpp)
 - Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/
 - Palindromic Substrings - https://leetcode.com/problems/palindromic-substrings/
 - Encode and Decode Strings (Leetcode Premium) - https://leetcode.com/problems/encode-and-decode-strings/
