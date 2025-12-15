@@ -61,7 +61,7 @@ Dynamic Programming
 - Unique Paths - https://leetcode.com/problems/unique-paths/
   - ✅ [Code](./62.cpp)
 - Jump Game - https://leetcode.com/problems/jump-game/
-
+  - ✅ [Code](./55.cpp)
 
 ---
 
@@ -111,7 +111,9 @@ Matrix
 String
 
 - Longest Substring Without Repeating Characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/
+  - ✅ [Code](./003.cpp)
 - Longest Repeating Character Replacement - https://leetcode.com/problems/longest-repeating-character-replacement/
+
 - Minimum Window Substring - https://leetcode.com/problems/minimum-window-substring/
 - Valid Anagram - https://leetcode.com/problems/valid-anagram/
 - Group Anagrams - https://leetcode.com/problems/group-anagrams/
