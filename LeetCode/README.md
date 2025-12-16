@@ -127,13 +127,13 @@ String
 - Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/
   - ✅ [Code](./005.cpp)
 - Palindromic Substrings - https://leetcode.com/problems/palindromic-substrings/
-
+  - ✅ [Code](./647.cpp)
 - Encode and Decode Strings (Leetcode Premium) - https://leetcode.com/problems/encode-and-decode-strings/
+
 
 ---
 
 Tree
-
 - Maximum Depth of Binary Tree - https://leetcode.com/problems/maximum-depth-of-binary-tree/
 - Same Tree - https://leetcode.com/problems/same-tree/
 - Invert/Flip Binary Tree - https://leetcode.com/problems/invert-binary-tree/
