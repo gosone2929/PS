@@ -125,7 +125,9 @@ String
 - Valid Palindrome - https://leetcode.com/problems/valid-palindrome/
   - ✅ [Code](./125.cpp)
 - Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/
+  - ✅ [Code](./005.cpp)
 - Palindromic Substrings - https://leetcode.com/problems/palindromic-substrings/
+
 - Encode and Decode Strings (Leetcode Premium) - https://leetcode.com/problems/encode-and-decode-strings/
 
 ---
