@@ -81,6 +81,7 @@ Graph
 Interval
 
 - Insert Interval - https://leetcode.com/problems/insert-interval/
+  - ✅ [Code](./104.cpp)
 - Merge Intervals - https://leetcode.com/problems/merge-intervals/
 - Non-overlapping Intervals - https://leetcode.com/problems/non-overlapping-intervals/
 - Meeting Rooms (Leetcode Premium) - https://leetcode.com/problems/meeting-rooms/
@@ -137,7 +138,9 @@ String
 
 Tree
 - Maximum Depth of Binary Tree - https://leetcode.com/problems/maximum-depth-of-binary-tree/
+  - ✅ [Code](./104.cpp)
 - Same Tree - https://leetcode.com/problems/same-tree/
+  - ✅ [Code](./647.cpp)
 - Invert/Flip Binary Tree - https://leetcode.com/problems/invert-binary-tree/
 - Binary Tree Maximum Path Sum - https://leetcode.com/problems/binary-tree-maximum-path-sum/
 - Binary Tree Level Order Traversal - https://leetcode.com/problems/binary-tree-level-order-traversal/
