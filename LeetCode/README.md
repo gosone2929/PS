@@ -106,9 +106,9 @@ Matrix
 - Spiral Matrix - https://leetcode.com/problems/spiral-matrix/
   - ✅ [Code](./054.cpp)
 - Rotate Image - https://leetcode.com/problems/rotate-image/
-
+  - ✅ [Code](./048.cpp)
 - Word Search - https://leetcode.com/problems/word-search/
-
+  - ✅ [Code](./079.cpp)
 ---
 
 String
