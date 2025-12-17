@@ -104,7 +104,9 @@ Matrix
 - Set Matrix Zeroes - https://leetcode.com/problems/set-matrix-zeroes/
   - ✅ [Code](./073.cpp)
 - Spiral Matrix - https://leetcode.com/problems/spiral-matrix/
+  - ✅ [Code](./054.cpp)
 - Rotate Image - https://leetcode.com/problems/rotate-image/
+
 - Word Search - https://leetcode.com/problems/word-search/
 
 ---
