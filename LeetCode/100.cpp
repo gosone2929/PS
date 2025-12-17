@@ -1,0 +1,15 @@
+#include <iostream>
+#include "TreeNode.cpp"
+
+class Solution {
+public:
+    bool isSameTree(TreeNode* p, TreeNode* q) {
+        if (p == nullptr and q == nullptr) {
+            return true;
+        }
+        else if (p == nullptr or q == nullptr or p->val != q->val) {
+            return false;
+        }
+        return isSameTree(p->left, q->left) and isSameTree(p->right, q->right);
+    }
+};
