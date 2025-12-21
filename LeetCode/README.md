@@ -158,9 +158,11 @@ Tree
 - Kth Smallest Element in a BST - https://leetcode.com/problems/kth-smallest-element-in-a-bst/
   - ✅ [Code](./230.cpp)
 - Lowest Common Ancestor of BST - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
-
+  - ✅ [Code](./235.cpp)
 - Implement Trie (Prefix Tree) - https://leetcode.com/problems/implement-trie-prefix-tree/
+  - ✅ [Code](./208.cpp)
 - Add and Search Word - https://leetcode.com/problems/add-and-search-word-data-structure-design/
+  - ✅ [Code](./211.cpp)
 - Word Search II - https://leetcode.com/problems/word-search-ii/
 
 ---
