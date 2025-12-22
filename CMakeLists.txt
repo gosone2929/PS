@@ -1,0 +1,72 @@
+cmake_minimum_required(VERSION 4.1)
+project(PS)
+
+set(CMAKE_CXX_STANDARD 14)
+
+include_directories(.)
+include_directories(BOJ)
+include_directories(LeetCode)
+
+add_executable(PS
+        BOJ/12015.cpp
+        BOJ/1654.cpp
+        LeetCode/001.cpp
+        LeetCode/003.cpp
+        LeetCode/005.cpp
+        LeetCode/011.cpp
+        LeetCode/015.cpp
+        LeetCode/020.cpp
+        LeetCode/023.cpp
+        LeetCode/033.cpp
+        LeetCode/048.cpp
+        LeetCode/049.cpp
+        LeetCode/053.cpp
+        LeetCode/054.cpp
+        LeetCode/055.cpp
+        LeetCode/057.cpp
+        LeetCode/070.cpp
+        LeetCode/073.cpp
+        LeetCode/079.cpp
+        LeetCode/091.cpp
+        LeetCode/098.cpp
+        LeetCode/100.cpp
+        LeetCode/102.cpp
+        LeetCode/104.cpp
+        LeetCode/105.cpp
+        LeetCode/1143.cpp
+        LeetCode/121.cpp
+        LeetCode/124.cpp
+        LeetCode/125.cpp
+        LeetCode/133.cpp
+        LeetCode/139.cpp
+        LeetCode/152.cpp
+        LeetCode/153.cpp
+        LeetCode/198.cpp
+        LeetCode/206.cpp
+        LeetCode/208.cpp
+        LeetCode/211.cpp
+        LeetCode/212.cpp
+        LeetCode/213.cpp
+        LeetCode/217.cpp
+        LeetCode/226.cpp
+        LeetCode/230.cpp
+        LeetCode/235.cpp
+        LeetCode/238.cpp
+        LeetCode/242.cpp
+        LeetCode/297.cpp
+        LeetCode/300.cpp
+        LeetCode/322.cpp
+        LeetCode/371.cpp
+        LeetCode/377.cpp
+        LeetCode/424.cpp
+        LeetCode/572.cpp
+        LeetCode/62.cpp
+        LeetCode/647.cpp
+        LeetCode/76.cpp
+        LeetCode/796.cpp
+        LeetCode/ListNode.cpp
+        LeetCode/tempCodeRunnerFile.cpp
+        LeetCode/test.cpp
+        LeetCode/TreeNode.cpp
+        tempCodeRunnerFile.cpp
+        LeetCode/207.cpp)
