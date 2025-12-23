@@ -69,4 +69,6 @@ add_executable(PS
         LeetCode/test.cpp
         LeetCode/TreeNode.cpp
         tempCodeRunnerFile.cpp
-        LeetCode/207.cpp)
+        LeetCode/207.cpp
+        LeetCode/128.cpp
+        LeetCode/200.cpp)
