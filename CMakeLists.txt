@@ -71,4 +71,5 @@ add_executable(PS
         tempCodeRunnerFile.cpp
         LeetCode/207.cpp
         LeetCode/128.cpp
-        LeetCode/200.cpp)
+        LeetCode/200.cpp
+        LeetCode/056.cpp)
