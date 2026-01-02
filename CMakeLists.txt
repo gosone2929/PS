@@ -84,4 +84,6 @@ add_executable(PS
         DataStrucutre/LinkedList.cpp
         DataStrucutre/LinkedList.h
         DataStrucutre/Node.cpp
-        DataStrucutre/Node.h)
+        DataStrucutre/Node.h
+        LeetCode/961.cpp
+        LeetCode/TestTest.cpp)
