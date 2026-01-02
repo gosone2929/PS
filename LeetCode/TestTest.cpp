@@ -31,8 +31,5 @@ int main() {
     }
 
     cout << answer / 2 << endl;
-
-
-
     return 0;
 }
