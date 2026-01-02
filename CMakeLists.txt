@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 4.1)
 project(PS)
 
-set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_STANDARD 17)
 
 include_directories(.)
 include_directories(BOJ)
@@ -72,4 +72,16 @@ add_executable(PS
         LeetCode/207.cpp
         LeetCode/128.cpp
         LeetCode/200.cpp
-        LeetCode/056.cpp)
+        LeetCode/056.cpp
+        LeetCode/141.cpp
+        LeetCode/021.cpp
+        LeetCode/019.cpp
+        LeetCode/143.cpp
+        LeetCode/088.cpp
+        DataStrucutre/LinkedList.cpp
+        DataStrucutre/LinkedList.cpp
+        DataStrucutre/LinkedList.h
+        DataStrucutre/LinkedList.cpp
+        DataStrucutre/LinkedList.h
+        DataStrucutre/Node.cpp
+        DataStrucutre/Node.h)

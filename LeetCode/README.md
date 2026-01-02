@@ -89,7 +89,7 @@ Interval
 - Insert Interval - https://leetcode.com/problems/insert-interval/
   - ✅ [Code](./104.cpp)
 - Merge Intervals - https://leetcode.com/problems/merge-intervals/
-
+  - ✅ [Code](./56.cpp)
 - Non-overlapping Intervals - https://leetcode.com/problems/non-overlapping-intervals/
 - Meeting Rooms (Leetcode Premium) - https://leetcode.com/problems/meeting-rooms/
 - Meeting Rooms II (Leetcode Premium) - https://leetcode.com/problems/meeting-rooms-ii/
@@ -99,11 +99,17 @@ Interval
 Linked List
 
 - Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
+  - ✅ [Code](./206.cpp)
 - Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
+  - ✅ [Code](./141.cpp)
 - Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
+  - ✅ [Code](./021.cpp)
 - Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
+  - ✅ [Code](./211.cpp)
 - Remove Nth Node From End Of List - https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+  - ✅ [Code](./019.cpp)
 - Reorder List - https://leetcode.com/problems/reorder-list/
+  - ✅ [Code](./143.cpp)
 
 ---
 
@@ -177,5 +183,7 @@ Tree
 Heap
 
 - Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
+  - ✅ [Code](./023.cpp)
 - Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/
+
 - Find Median from Data Stream - https://leetcode.com/problems/find-median-from-data-stream/
